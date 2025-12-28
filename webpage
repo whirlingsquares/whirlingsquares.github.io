@@ -1,1 +1,51 @@
+<!DOCTYPE html>
 
+<html>
+	<head>
+
+		<meta charset="utf-8" />
+
+		<title>Whirling Squares</title>
+		<style type="text/css">
+			body {
+				width: 640px;
+				margin: 0 auto;
+				}
+			
+		</style>
+	</head>
+
+
+<body>
+	
+<div class="column1">
+	<p>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+Whirling Squares LLC is a one-man finish carpentry contractor specializing in the restoration of historic buildings.  It's just me--Mike Fazio.  I install new millwork, restore wood architectural elements, and replicate period doors, windows, and moldings when they are beyond repair.  I also fabricate custom entry doors and sash windows.  
+	<br>
+<center>___________________________________________________________
+<br>
+<br>
+Contact:	Mike Fazio | info@whirlingsquares.com | 914.400.7176<br>
+
+<center>___________________________________________________________
+<br>
+<br>
+	<center>Based in Sleepy Hollow, NY.<br>
+	<br>
+	<center>Serving Westchester County and surrounding areas.  <br>
+	<br>
+	<center> <a href="https://www.instagram.com/whirlingsquares/" target="_blank">Instagram</a> </center> <br> 
+	<div id="header">
+		<center><h1><img src="whirling_squares.jpg" alt="Whirling Squares Logo" width="640" height="640"> </h1>
+	</div>
+</font>
+
+</body>
+
+
+</html>
